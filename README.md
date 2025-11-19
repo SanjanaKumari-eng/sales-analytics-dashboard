@@ -1,6 +1,8 @@
 # 📊 Power BI Ecommerce Sales Dashboard
 
 ![Dashboard Screenshot](Screenshot%202025-11-19%20181331.png)
+<img width="1322" height="739" alt="Screenshot 2025-11-19 181353" src="https://github.com/user-attachments/assets/a72e793c-38f9-42e3-8584-5b0f6795e9a7" />
+<img width="1329" height="750" alt="Screenshot 2025-11-19 181410" src="https://github.com/user-attachments/assets/d97f8812-d54a-4943-b43d-4fcd38cef278" />
 
 An interactive Power BI dashboard for analyzing ecommerce sales data, providing insights into profits, sales trends, and customer purchasing patterns across different categories, states, and payment methods.
 
